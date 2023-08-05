@@ -45,7 +45,7 @@ const GroceryComponent = () => {
 
   return (
     <div className="grocery-body">
-        <h1>Grocery List</h1>
+        <h1>Grocery Buddy</h1>
         <div className="input-section">
             <div className='input-container'>
                 <input
